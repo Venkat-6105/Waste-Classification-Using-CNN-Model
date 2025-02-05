@@ -19,6 +19,8 @@ This project provides a visualization of waste classification into two categorie
   Python
   Matplotlib
   Pandas (if data preprocessing is involved)
+  Numpy 
+  Tensorflow
 ## Usage
   Load the dataset containing labels for waste classification.
   Run the provided Python script to generate the pie chart.
