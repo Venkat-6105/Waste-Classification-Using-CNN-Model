@@ -1,5 +1,6 @@
 ## Waste Classification Visualization
 Dataset:- https://www.kaggle.com/datasets/techsash/waste-classification-data
+
 This project provides a visualization of waste classification into two categories: Organic and Recyclable. Using Python and Matplotlib, the data is represented in a visually appealing pie chart with color-coded sections for easy interpretation.
 
 ## Features
